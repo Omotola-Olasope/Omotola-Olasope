@@ -1,7 +1,7 @@
-### Hi there 👋
-## Welcome to Omotola's GitHub Profile 
+### Hello there 👋
+## Welcome to my GitHub Profile 
 
-I'm Omotola, a passionate Data Engineer driven by innovation and a desire to make an impact.  I enjoy translating complex data into actionable insights that empower better decision-making and fuel business growth. 
+I am Omotola, a passionate Data Engineer driven by innovation and a desire to make an impact.  I enjoy translating complex data into actionable insights that empower better decision-making and fuel business growth. 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://omotola-olasope.github.io/assets/img/IMG_9985.jpeg">
