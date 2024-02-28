@@ -6,7 +6,7 @@ I am Omotola, a passionate Data Engineer driven by innovation and a desire to ma
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://omotola-olasope.github.io/assets/img/IMG_9985.jpeg">
  <source media="(prefers-color-scheme: light)" srcset="https://omotola-olasope.github.io/assets/img/IMG_9144.jpeg">
- <img alt="Omotola's Image" src="https://omotola-olasope.github.io/assets/img/IMG_9985.jpeg">
+ <img alt="Omotola's Image" src="https://omotola-olasope.github.io/assets/img/IMG_9985.jpeg" width="30%" height="30%">
 </picture>
 
 
