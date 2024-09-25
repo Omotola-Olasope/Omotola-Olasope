@@ -36,6 +36,11 @@ I am Omotola, a passionate Data Engineer driven by innovation and a desire to ma
 
 * Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/omotola-olasope/) or through [email](tola.olasope@gmail.com).
 
+- 📫 Connect with me: <a href="https://www.linkedin.com/in/omotola-olasope/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike-houngbadji" height="30" width="40" /></a>
+<a href="https://twitter.com/omotolaolasope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikekenneth77" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mikekenneth77" height="30" width="40" /></a>
+</p>
+
 **Additional Resources:**
 
 * [My Portfolio](https://omotola-olasope.github.io)
@@ -46,6 +51,12 @@ I am Omotola, a passionate Data Engineer driven by innovation and a desire to ma
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omotola-Olasope&show_icons=true&locale=en&layout=compact" alt="Omotola-Olasope" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omotola-Olasope&" alt="Omotola-Olasope" /></p>
+
+
+<br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omotola-Olasope&show_icons=true&locale=en" alt="Omotola-Olasope" /></p>
+
 
 
 <!--
