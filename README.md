@@ -1,7 +1,7 @@
-### Hello there 👋
+### Hi Hi!... 👋
 ## Welcome to my GitHub Profile 
 
-I am Omotola, a passionate Data Engineer driven by innovation and a desire to make an impact.  I enjoy translating complex data into actionable insights that empower better decision-making and fuel business growth. 
+I am Omotola, a passionate Multi-Asset Specialist and Data Engineer driven by innovation and a desire to make an impact.  I enjoy delivering strategic market insights that empower high-stakes financial decisions. 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://omotola-olasope.github.io/assets/img/IMG_9985.jpeg">
@@ -12,14 +12,14 @@ I am Omotola, a passionate Data Engineer driven by innovation and a desire to ma
 
 ## About Me:
 
-* Data Engineer with cutting-edge expertise in SQL, Python, and cloud technologies (AWS, Apache Spark, Airflow)
+* Data Engineer with cutting-edge expertise on the Bloomberg Terminal, BQL, Bloomberg-API, SQL, Python, and cloud technologies (AWS, Apache Spark, Airflow)
 *  Strong collaborative and communication skills, adept at working effectively in diverse teams
-*  Proven track record of success in optimizing data pipelines, improving data quality, and enhancing analytical capabilities
-*  Remote-first professional with a global perspective and a passion for continuous learning
-
+*  Proven track record of success in optimizing client workflows, data pipelines, improving data quality, and enhancing analytical capabilities
+  
 **I'm excited to connect with others who share a passion for:**
 
 * ️Data Engineering
+* Finance
 *  Data Science and Analytics
 *  ☁️ Cloud Computing
 *  Music (especially Afrobeat and EDM) 
@@ -27,6 +27,7 @@ I am Omotola, a passionate Data Engineer driven by innovation and a desire to ma
 
 **My proudest contributions:**
 
+* Proactively engaged with over 100 clients in less than 7 weeks, providing insights and guidance on relevant Bloomberg tools across global asset classes.
 * **Increased reporting efficiency and accuracy by 80%** by automating weekly report generation and delivery through a dynamic data pipeline. This innovative solution **saved clients a remarkable 4 days of manual work per week**, allowing them to focus on higher-value tasks.
 * **Reduced crime rate in Lagos, Nigeria by 20%** through meticulous data analysis and insights (2019-2020).
 * **Enhanced data integrity by 65%** by collaborating with analysts to implement robust data quality processes.
@@ -46,13 +47,15 @@ I am Omotola, a passionate Data Engineer driven by innovation and a desire to ma
 * [My Portfolio](https://omotola-olasope.github.io)
 
 
-**My Git Stats**
+
+
+**Some of my git stats...**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omotola-Olasope&show_icons=true&locale=en&layout=compact" alt="Omotola-Olasope" /></p>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omotola-Olasope&" alt="Omotola-Olasope" /></p>
 
-
+<!--
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omotola-Olasope&show_icons=true&locale=en" alt="Omotola-Olasope" /></p>
